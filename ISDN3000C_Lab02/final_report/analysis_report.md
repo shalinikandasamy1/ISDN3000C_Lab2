@@ -1,8 +1,8 @@
 # Server Analysis Report
-Fri 12 Sep 2025 16:37:41 HKT
+Tue 16 Sep 2025 14:06:24 HKT
 
 ## Summary
 
-- Total Warning: 0
-- Total Critical Errors: 0
-- Total Player Logins: 0
+- Total Warning: 12
+- Total Critical Errors: 11
+- Total Player Logins: 9
